@@ -1,5 +1,14 @@
 {
-    "name":"Edna \"E\" Mode",
-    "movie":"The Incredibles",
-    "descriptoin":"an icon"
+    "character1":
+    {
+        "name":"Edna \"E\" Mode",
+        "movie":"The Incredibles",
+        "descriptoin":"an icon"
+    },
+    "character2":
+    {
+        "name":"Periwinkle",
+        "movie":"Tinkerbell: Secret of the Wings",
+        "descriptoin":"Winter girly"
+    }
 }
