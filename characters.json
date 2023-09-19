@@ -1,0 +1,13 @@
+{
+    "person1": {
+        "navn": "Langbein",
+        "film": "En langbeint film",
+        "beskrivelse": "Han er en hund, og har lange ører."
+    },
+
+    "person2": {
+        "navn": "Rapunzel",
+        "film": "Tangled",
+        "beskrivelse": "Hun er en prinsesse, med blondt langt hår."
+    }
+}
