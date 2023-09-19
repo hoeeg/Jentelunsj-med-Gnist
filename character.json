@@ -3,12 +3,14 @@
     {
         "name":"Edna \"E\" Mode",
         "movie":"The Incredibles",
-        "descriptoin":"an icon"
+        "descriptoin":"an icon",
+        "img":"/Edna_mode_promotional_image.png"
     },
     "character2":
     {
         "name":"Periwinkle",
         "movie":"Tinkerbell: Secret of the Wings",
-        "descriptoin":"Winter girly"
+        "descriptoin":"Winter girly",
+        "img":"/Periwinkle-Profile.webp"
     }
 }
